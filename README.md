@@ -3,6 +3,7 @@
 The dataset contains 247,344 rows and 17 columns, and it records details about electric vehicles in a U.S. state's vehicle population.
 
 🔍 Summary of the Dataset
+
 This dataset captures the population of electric vehicles registered in a U.S. state (likely Washington, given the WA in the State column). It includes vehicle-specific details like make, model, electric range, year, and location-based details such as city, county, legislative district, utility provider, and census tract.
 
 🧾 Column Descriptions
@@ -41,4 +42,4 @@ Vehicle Location -->	Latitude and longitude coordinates (as a point) for the reg
 
 Electric Utility -->	Utility provider(s) for the vehicle's registration location.
 
-2020 Census --> Tract	U.S. Census Bureau tract code from 2020, used for geographic segmentation.
+2020 Census Tract	--> U.S. Census Bureau tract code from 2020, used for geographic segmentation.
